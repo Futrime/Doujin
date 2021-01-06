@@ -10,5 +10,5 @@ Bilibili: [https://www.bilibili.com/read/readlist/rl333916](https://www.bilibili
 
 百度贴吧：[https://tieba.baidu.com/p/7093151519](https://tieba.baidu.com/p/7093151519)
 
-刺猬猫：（请自行搜索《梅普露的魔大陆召唤之旅》作者futrime）
+刺猬猫：（请 自行搜索《梅普露的魔大陆召唤之旅》作者futrime）
 
