@@ -2,3 +2,5 @@ docs/_book
 *.epub
 *.pdf
 *.mobi
+
+.ipynb_checkpoints
