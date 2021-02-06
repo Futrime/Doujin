@@ -22,6 +22,13 @@
 .. toctree::
    :glob:
    :maxdepth: 2
+   :caption: 新世界的协奏曲
+   
+   docs/adventure/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
    :caption: 附录
    
    docs/appendix/*
